@@ -6,7 +6,7 @@ The site covers five skill categories (Frontend, Backend, Languages, Dev Tools, 
 
 ## 🚀 Live Demo
 
-🔗 Coming soon (deploying on Vercel)
+🔗 (https://shivbportfolio.vercel.app)
 
 ## 🛠️ Tech Stack
 
